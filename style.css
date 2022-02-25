@@ -1,0 +1,169 @@
+/* Helper Styles: Do not Delete */
+body {
+	margin:  0;
+	padding:  0;
+	box-sizing:  border-box;
+	background-color:#804F29;
+}
+
+/* Put your CSS Styles Below this Line */
+
+h1 {
+
+}
+
+h2 {
+	font-family: 'Work Sans', sans-serif;
+	text-align: center;
+	font-size:  60px;
+}
+
+h3 {
+	font-family: 'Work Sans', sans-serif;
+	color: #FFD200;
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+	font-family: 'Work Sans', sans-serif;
+}
+
+li {
+	font-family: 'Work Sans', sans-serif;
+}
+
+
+
+nav ul {
+	display: flex;
+	justify-content: space-around;
+	margin:  0;
+	padding:  0;
+}
+
+nav ul li {
+	font-size:  36px;
+	list-style: none;
+}
+
+
+nav ul li a {
+	color: #FFD200;
+	text-decoration:  none;
+}
+
+header {
+	background: url(header-bg.png);
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	min-height:  100vh;
+}
+
+.about {
+	width:  60%;
+	margin:  50px auto 0 auto;
+}
+
+.specials {
+	display: flex;
+	justify-content: center;
+}
+
+.specials div {
+	width:  20%;
+	margin: 0 2%;
+}
+
+.specials img {
+	width:  100%;
+}
+
+.favorites {
+	display: flex;
+	justify-content: center;
+}
+
+.favorites img {
+	width:  20%;
+	margin: 0 2%;
+}
+
+.contact {
+	width:  60%;
+	margin:  0 auto;
+	text-align: center;
+}
+
+
+/* Menu Page */
+.menu {
+	display: flex;
+	flex-wrap:  wrap;
+	justify-content: space-between;
+	width:  60%;
+	margin:  0 auto;
+}
+
+
+
+.menu-item {
+	width:  30%;
+}
+
+.menu-item p {
+	color:  white;
+}
+
+.menu-item img {
+	width:  100%;
+}
+
+.Topping-menu {
+	display: flex;
+	flex-wrap:  wrap;
+	justify-content: space-between;
+	width:  60%;
+	margin:  0 auto;
+}
+
+.Topping-menu h2 {
+	width:  100%;
+}
+
+.Topping-menu .menu-item{
+	width: 20%;
+	text-align: center;
+}
+.text-wrap {
+	width: 60%;
+	margin: 0 auto;
+	text-align: center;
+}
+/* hiring.html */
+.form-wrap {
+	text-align: center;
+	padding: 50px 0;
+	font-family: 'Work Sans', sans-serif;
+}
+form {
+	width:  60%;
+	margin: 0 auto;
+	font-size: 24px;
+}
+input[type=submit] {
+	font-family: 'Work Sans', sans-serif;
+	background-color: #FFD200;
+}
+
+
